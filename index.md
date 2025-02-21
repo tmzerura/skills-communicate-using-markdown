@@ -3,3 +3,10 @@
 ###### This an `<h6>` header which is the smallest 
 
 ![azure image](https://www.serverwatch.com/wp-content/uploads/2022/02/Microsoft_Azure.svg_.png)
+
+```csharp
+Console.WriteLine("Hello Carol");
+```
+```javascript
+console.log("Hello world");
+```
